@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DSA_Lab2.iml" filepath="$PROJECT_DIR$/DSA_Lab2.iml" />
       <module fileurl="file://$USER_HOME$/Projects/Eprogs/Eprogs.iml" filepath="$USER_HOME$/Projects/Eprogs/Eprogs.iml" />
     </modules>
   </component>
